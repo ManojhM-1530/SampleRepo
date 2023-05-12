@@ -1,5 +1,4 @@
 # SampleRepo
-
 #Demo
 
 Learning GitHub in Expleo
